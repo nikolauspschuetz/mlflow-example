@@ -1,8 +1,5 @@
 python: "3.10.8"
 
-channels:
-  - defaults
-
 build_dependencies:
   - pip
   - setuptools
