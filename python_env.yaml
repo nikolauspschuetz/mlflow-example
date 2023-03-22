@@ -1,4 +1,3 @@
-name: tutorial
 python: "3.10.8"
 
 channels:
